@@ -16,7 +16,7 @@ const Splitscreen = () => {
           <p className="text-gray-100 text-sm mb-5">
             consectetur adipisicing elit. Deleniti,
           </p>
-          <Link to={"/home"}>
+          <Link to={"/login"}>
             <div className="py-2 border-b border-[#c0ed7c] active:scale-95 w-fit transition duration-150">
               Mulai Sekarang
             </div>
